@@ -1,0 +1,5 @@
+一些文章我已经download在 ../docs里面的
+/static    静态小目标的论文很多，大同小异，都是在简单背景下的high contrast target extraction。不同点在于feature和classifier
+的选用。
+/movement  动态小目标的论文偏少，也是我们可以做的方向，问题是我们要找到一个具有挑战性的数据库，目前论文中的数据库背景偏单一
+其实很多动态检测的算法就能实现很好的效果。
